@@ -1,0 +1,5 @@
+export const SET_REPOSITORIES = "SET_REPOSITORIES";
+export const SET_IS_FETCHING = "SET_IS_FETCHING";
+export const SET_PAGE = "SET_PAGE";
+export const SET_TOTAL_COUNT = "SET_TOTAL_COUNT";
+export const SET_SEARCH_INPUT = "SET_SEARCH_INPUT";
